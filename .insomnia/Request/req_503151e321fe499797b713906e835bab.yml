@@ -1,0 +1,21 @@
+_id: req_503151e321fe499797b713906e835bab
+type: Request
+parentId: wrk_3f22433a2d1d4f4d8da41cf36731a451
+modified: 1624871365759
+created: 1624871271772
+url: "{{ base_url }}/uuid"
+name: zenotest
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1624871271772
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

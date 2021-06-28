@@ -1,0 +1,20 @@
+_id: env_274e40b3e6f54e3fb4ce8574e3f127a8
+type: Environment
+parentId: env_3a7378acee040c52839b7b511a8731d3d13052d6
+modified: 1624871190047
+created: 1624871134576
+name: localdev
+data:
+  scheme: https
+  base_path: ""
+  host: httpbin.org
+  delay: 3
+dataPropertyOrder:
+  "&":
+    - scheme
+    - base_path
+    - host
+    - delay
+color: null
+isPrivate: false
+metaSortKey: 1624869281930
